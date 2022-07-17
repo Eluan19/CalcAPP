@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.calculadora.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.calculadora.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\drawable_shape_numero_normal.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\drawable\\shape_numero_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\drawable_backspace.png.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\drawable\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\drawable_shape_numero_selecionado.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\drawable\\shape_numero_selecionado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\drawable_botao_numero_clicado.xml.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\drawable\\botao_numero_clicado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Eluan\\.gradle\\daemon\\7.3.3\\com.example.calculadora.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
